@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:19.288480
+#+DATE: 2015-08-30 20:57:22.959333
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1598
 #+PROPERTY: ID KR6n0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1598
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0065_T_000-0380a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0065_T_008-0427a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《攝大乘論釋》卷第八¶
+《攝大乘論釋》卷第八¶
 ¶
 無性菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-8增上心學分
-:PROPERTIES:
-:head: 增上心學分第八
-:END:
-¶
+增上心學分第八¶
 
 論曰。如是已說增上戒殊勝。增上心殊勝云¶
 何可見。略由六種差別應知。一由所緣差別¶
@@ -274,11 +269,7 @@
 力無畏等一切佛法。非離如是所說等持。能¶
 辦修集到彼岸等。四種作業如聲聞等。¶
 
-9增上慧學分
-:PROPERTIES:
-:head: 《攝大乘論釋》增上慧學分第九
-:END:
-¶
+《攝大乘論釋》增上慧學分第九¶
 
 論曰。如是已說增上心殊勝。增上慧殊勝云¶
 何可見。謂無分別智。若自性若所依若因緣。¶

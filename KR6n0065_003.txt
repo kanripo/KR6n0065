@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:19.114962
+#+DATE: 2015-08-30 20:57:22.784824
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1598
 #+PROPERTY: ID KR6n0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1598
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0065_T_000-0380a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0065_T_003-0392b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《攝大乘論釋》卷第三¶
+《攝大乘論釋》卷第三¶
 ¶
 無性菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 所知依分第二之三
-:END:
-¶
+所知依分第二之三¶
 
 論曰。云何為生雜染不成。結相續時不相應¶
 故。

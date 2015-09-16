@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:19.189885
+#+DATE: 2015-08-30 20:57:22.855403
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1598
 #+PROPERTY: ID KR6n0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1598
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0065_T_000-0380a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0065_T_005-0405c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
-
- 《攝大乘論釋》卷第五¶
+《攝大乘論釋》卷第五¶
 ¶
 無性菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 所知相分第三之二
-:END:
-¶
+所知相分第三之二¶
 
 論曰。復次云何得知如。依他起自性。遍計所¶
 執自性。顯現而非稱體。由名前覺無稱體相¶
@@ -357,7 +353,7 @@
 惱。但由於大悲如是等。得最上菩提者。是得¶
 諸佛三菩提義。¶
 
-論曰。若有欲造大乘法釋。略由三相。應造其
+切曰。若有欲造大乘法釋。略由三相。應造其
 <pb:KR6n0065_T_005-0409a>¶
 釋。一者由說緣起。二者由說從緣所生法相。¶
 三者由說語義。

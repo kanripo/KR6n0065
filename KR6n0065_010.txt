@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:19.375755
+#+DATE: 2015-08-30 20:57:23.033409
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1598
 #+PROPERTY: ID KR6n0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1598
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0065_T_000-0380a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0065_T_010-0443b> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《攝大乘論釋》卷第十¶
+《攝大乘論釋》卷第十¶
 ¶
 無性菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 果智分第十一之餘
-:END:
-¶
+果智分第十一之餘¶
 
 論曰。復次諸佛法身甚深最甚深。此甚深相¶
 云何可見。此中有多頌。

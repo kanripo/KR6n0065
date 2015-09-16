@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:19.225916
+#+DATE: 2015-08-30 20:57:22.889060
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1598
 #+PROPERTY: ID KR6n0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1598
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0065_T_000-0380a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0065_T_006-0413b> ¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《攝大乘論釋》卷第六¶
+《攝大乘論釋》卷第六¶
 ¶
 無性菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-4入所知相分
-:PROPERTIES:
-:head: 入所知相分第四
-:END:
-¶
+入所知相分第四¶
 
 論曰。如是已說所知相入所知相云何應見。¶
 多聞熏習所依。非阿賴耶識所攝。如阿賴耶¶

@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:19.080482
+#+DATE: 2015-08-30 20:57:22.751856
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1598
 #+PROPERTY: ID KR6n0065
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1598
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0065_T_000-0380a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0065_T_002-0385c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《攝大乘論釋》卷第二¶
+《攝大乘論釋》卷第二¶
 ¶
 無性菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 所知依分第二之二
-:END:
-¶
+所知依分第二之二¶
 
 論曰。復次聲聞乘中。亦以異門密意。已說¶
 阿賴耶識。如彼增壹阿笈摩說。世間眾生愛¶
@@ -322,7 +318,7 @@
 有觸其牙。有觸其耳。有觸其足。有觸其尾。有¶
 觸脊[月*梁]。諸有問言象為何相。或有說言象¶
 如犁柄。或說如杵。或說如箕。或說如臼。或¶
-說如帚。或有說言象如石山。若不解了此二¶
+說如[竺-二+帚]。或有說言象如石山。若不解了此二¶
 緣起。無明生盲亦復如是。或有計執自性為¶
 因。或有計執宿作為因。或有計執自在為因。¶
 或有計執實我為因。或有計執無因無緣。或¶
